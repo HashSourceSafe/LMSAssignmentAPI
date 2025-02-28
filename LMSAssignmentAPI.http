@@ -1,0 +1,6 @@
+@LMSAssignmentAPI_HostAddress = http://localhost:5108
+
+GET {{LMSAssignmentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
